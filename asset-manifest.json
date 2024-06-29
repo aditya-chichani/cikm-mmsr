@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cikm-mmsr/static/css/main.4d65548e.css",
+    "main.js": "/cikm-mmsr/static/js/main.ca11fd9c.js",
+    "static/media/web2.jpeg": "/cikm-mmsr/static/media/web2.2cf797be18f4b3e9b3b9.jpeg",
+    "static/media/web.jpeg": "/cikm-mmsr/static/media/web.3e637478319d835f6eb3.jpeg",
+    "index.html": "/cikm-mmsr/index.html",
+    "main.4d65548e.css.map": "/cikm-mmsr/static/css/main.4d65548e.css.map",
+    "main.ca11fd9c.js.map": "/cikm-mmsr/static/js/main.ca11fd9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d65548e.css",
+    "static/js/main.ca11fd9c.js"
+  ]
+}
